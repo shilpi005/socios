@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "peter",
+      "contact": 952246887,
+      "id": 1,
+      "email": "peter@gmail.com",
+      "password": "peter123"
+    },
+    {
+      "name": "dan",
+      "contact": 8787654391,
+      "email": "dan@gmail.com",
+      "password": "dan654",
+      "id": 2
+    }
+  ]
+}
